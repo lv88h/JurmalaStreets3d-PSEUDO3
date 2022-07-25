@@ -1,0 +1,2 @@
+# JurmalaStreets3d-PSEUDO3
+3D WEB BROWSER GAME
